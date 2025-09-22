@@ -1,1 +1,10 @@
-
+[{
+ "relation": ["delegate_permission/common.handle_all_urls"],
+ "target": {
+   "namespace": "android_app",
+   "package_name": "com.example.trustedwebactivitydemo",
+   "sha256_cert_fingerprints": [
+     "BB:FB:B1:F7:B6:F1:40:31:FE:05:40:DC:B3:EA:2C:C3:08:3E:06:B7:4D:95:9A:38:89:31:ED:AA:D2:AF:F4:A4"
+   ]
+ }
+}]
